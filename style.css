@@ -1,0 +1,44 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background: skyblue;
+    margin: 25px auto;
+    text-align: center
+}
+h1{
+    font-family: sans-serif;
+}
+#first{
+    height: 35px;
+    margin: 20px 0px;
+    background: #d7f267;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+}
+#operators{
+    height: 30px;
+    width: 50px;
+    border: none;
+}
+#second{
+    height: 35px;
+    margin: 20px 0px;
+    background: #d7f267;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 100px;
+    border: none;
+}
+#result{
+    height: 35px;
+    margin: 20px 0px;
+    background: #d7f267;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+}
